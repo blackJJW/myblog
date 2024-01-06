@@ -16,8 +16,6 @@ tags:
 
 # 1. str 타입을 JSON형식으로 변환
 
----
-
 - JSON형식으로 저장되어 있는 문자열을 JSON으로 변환
     
     ```python
@@ -36,8 +34,6 @@ tags:
     
 
 # 2. `requests.model.Response` 객체를 JSON 형식으로 변환
-
----
 
 - 응답 객체의 내용을 JSON 형식으로 파싱하여 Python 객체로 반환.
 - HTTP 응답 데이터를 Python에서 사용할 수 있는 형태로 얻을 수 있다.
