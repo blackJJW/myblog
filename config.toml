@@ -6,7 +6,6 @@ paginatePath = "page"
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-65FHK1SBF9" # Enable Google Analytics by entering your tracking id
-relativeURLs = true
 
 [Params]
   description = "JUNG JIN WOO's Blog for programming" # Description of your site
