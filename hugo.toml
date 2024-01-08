@@ -59,16 +59,6 @@ googleAnalytics = "G-65FHK1SBF9" # Enable Google Analytics by entering your trac
     url = "/categories/python/"
     weight = 2
   [[menu.main]]
-    identifier = "java"
-    name = "Java"
-    url = "/categories/Java/"
-    weight = 3
-  [[menu.main]]
-    identifier = "html"
-    name = "HTML"
-    url = "/categories/HTML/"
-    weight = 4
-  [[menu.main]]
     identifier = "algorithm"
     name = "Algorithm"
     url = "/categories/algorithm/"
@@ -88,11 +78,6 @@ googleAnalytics = "G-65FHK1SBF9" # Enable Google Analytics by entering your trac
     name = "DL"
     url = "/categories/dl/"
     weight = 9
-  [[menu.main]]
-    identifier = "Statistics"
-    name = "statistics"
-    url = "/categories/statistics/"
-    weight = 10
   [[menu.main]]
     identifier = "setting"
     name = "Setting"
@@ -114,9 +99,3 @@ googleAnalytics = "G-65FHK1SBF9" # Enable Google Analytics by entering your trac
     name = "computer system"
     url = "/categories/computer-system/"
     weight = 14
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/categories/projects/"
-    weight = 15
-  
