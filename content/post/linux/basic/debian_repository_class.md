@@ -1,5 +1,5 @@
 ---
-title : 'Debian 리포지터리 분류'
+title : '[Linux] Debian 리포지터리 분류'
 date : 2024-01-14T00:20:07+09:00
 draft : False
 categories:
