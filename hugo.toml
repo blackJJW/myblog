@@ -62,40 +62,40 @@ googleAnalytics = "G-65FHK1SBF9" # Enable Google Analytics by entering your trac
     identifier = "algorithm"
     name = "Algorithm"
     url = "/categories/algorithm/"
-    weight = 6
+    weight = 3
   [[menu.main]]
     identifier = "SQL"
     name = "sql"
     url = "/categories/sql/"
-    weight = 7
+    weight = 4
   [[menu.main]]
     identifier = "ml"
     name = "ML"
     url = "/categories/ml/"
-    weight = 8
+    weight = 5
   [[menu.main]]
     identifier = "dl"
     name = "DL"
     url = "/categories/dl/"
-    weight = 9
+    weight = 6
   [[menu.main]]
     identifier = "setting"
     name = "Setting"
     url = "/categories/setting/"
-    weight = 11
+    weight = 7
   [[menu.main]]
     identifier = "linux"
     name = "Linux"
     url = "/categories/Linux/"
-    weight = 12
+    weight = 8
   [[menu.main]]
     identifier = "bash"
     name = "Bash"
     url = "/categories/bash/"
-    weight = 13
+    weight = 9
   [[menu.main]]
     [[menu.main]]
     identifier = "computer system"
     name = "computer system"
     url = "/categories/computer-system/"
-    weight = 14
+    weight = 10
